@@ -4,7 +4,7 @@ Predicting Loyal Customers For a Lending Club Using Decision Tree and Random For
 In this Project I explored the publicly available data from LendingClub.com. Lending Club connects people who need money (borrowers) with people who have money (investors). Hopefully, as an investor you would want to invest in people who showed a profile of having a high probability of paying you back. I tried to create a model that will help predict this.
 I used the lending data from 2007-2010 and be trying to classify and predict whether or not the borrower paid back their loan in full.
 
-Here are what the columns of the taken dataset represent:
+Here are what the columns of the taken dataset represent -
 
 credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
